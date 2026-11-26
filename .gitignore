@@ -1,0 +1,9 @@
+node_modules/
+out/
+.remotion/
+dist/
+.env*
+*.log
+/reference*
+/binding*.json
+.DS_Store
